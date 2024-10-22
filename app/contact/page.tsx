@@ -42,7 +42,7 @@ export default function ContactPage() {
         <input
           type="text"
           name="name"
-          placeholder="Your Name"
+          placeholder="Name"
           value={formData.name}
           onChange={handleChange}
           required
@@ -50,14 +50,14 @@ export default function ContactPage() {
         <input
           type="email"
           name="email"
-          placeholder="Your Email"
+          placeholder="Email"
           value={formData.email}
           onChange={handleChange}
           required
         />
         <textarea
           name="message"
-          placeholder="Your Message"
+          placeholder="Message"
           value={formData.message}
           onChange={handleChange}
           required
