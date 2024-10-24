@@ -7,7 +7,7 @@ body, html {
 
 /* Header */
 header {
-  background-color: #f7c15e;
+  background-color: #4db3f7;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 4px 0; 
 }
@@ -31,7 +31,7 @@ li {
 
 a {
   text-decoration: none;
-  color: #333;
+  color: #ffffff;
   font-weight: bold;
   padding: 10px 15px;
   border-radius: 5px;
@@ -39,7 +39,8 @@ a {
 }
 
 a:hover {
-  background-color: #fff2ba;
+  background-color: #ffffff;
+  color: #4db3f7;
 }
 
 /* Image */
@@ -49,7 +50,7 @@ img {
   margin: 50px auto; 
   display: block;
   border-radius: 100px;
-  box-shadow: 20px 20px 15px #f7c15e;
+  box-shadow: 20px 20px 15px #4db3f7;
 }
 
 /* Main Introduction (Home Page) */
@@ -178,7 +179,7 @@ p {
 
 /* Footer */
 footer {
-  background-color: #f7c15e; 
+  background-color: #4db3f7; 
   color: white;
   padding: 10px 20px;
   margin-top: 60px;
@@ -214,7 +215,7 @@ footer .social-link {
 }
 
 footer .social-link:hover {
-  color: #f0c14b;
+  color: #4db3f7;
 }
 
 footer .social-link .icon {
