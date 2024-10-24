@@ -7,7 +7,7 @@ export default function Main_Page() {
     <div>
 
       {/* image section */}
-      <Image src={"/my-img.png"} width={300} height={100} alt="my-image" className="img" />
+      <Image src={"/new-img.jpg"} width={300} height={100} alt="my-image" className="img" />
 
       {/* introduction */}
       <main className="main-introduction">
